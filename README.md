@@ -8,7 +8,7 @@
 - работа с асинхронными запросами
 - реализация поиска
 
-# ![image](https://user-images.githubusercontent.com/55236675/81838682-2097dd80-954f-11ea-8142-c2fae370694e.png)
+#![image](https://user-images.githubusercontent.com/55236675/116917204-661d5100-ac5f-11eb-9139-4fbac2609bb1.png)
 ## https://movie-search-shiryaevam.netlify.app/
 
 # Реализованный функционал
